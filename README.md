@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=ffffff&logo=Git&logoColor=F05032&label="  height="32 alt="Git logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=ffffff&logo=javascript&logoColor=F7DF1E&label=" height="32 alt="Javascript logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=typescript&color=ffffff&logo=typescript&logoColor=3178C6&label=" height="32 alt="Typescript logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue&color=ffffff&logo=vue.js&logoColor=4FC08D&label="  height="32 alt="Vue logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=ffffff&logo=Quasar&logoColor=1976D2&label="  height="32 alt="Quasar logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ReactNative&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=ffffff&logo=NextUI&logoColor=000000&label="  height="32 alt="React logo" />
